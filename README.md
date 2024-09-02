@@ -1,0 +1,2 @@
+# svelte
+Learning svelte framwork
